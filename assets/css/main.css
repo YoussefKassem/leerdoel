@@ -1629,6 +1629,11 @@ input, select, textarea {
 			width: 430px;
 		}
 
+		.filter2{
+			height: 600px;
+			width: 400px;
+		}
+
 		.flex{
 			display: flex;
 			justify-content: center;
@@ -1636,22 +1641,22 @@ input, select, textarea {
 
 		.position{
 			position: relative;
-			bottom: 125px;
+			bottom: 325px;
 		}
 
 		.position2{
 			position: relative;
-			top: 25px;
+			top: 85px;
 		}
 
 		.position3{
 			position:relative;
-			bottom: 175px;
+			bottom: 375px;
 		}
 
 		.position4{
 			position: relative;
-			top: 15px;
+			top: 10px;
 		}
 
 		.position5{
@@ -1664,13 +1669,23 @@ input, select, textarea {
 			top: 25px;
 		}
 
+		.position7{
+			position: relative;
+			top: 365px;
+		}
+
+		.position8{
+			position: relative;
+			top: 395px;
+		}
+
 			
 		input[type="radio"] {
 			display: none;
 		}
 		
 		.container {
-			background: rgb(255, 255, 255);
+			/* background: rgb(255, 255, 255); */
 			position: relative;
 			height: 100vh;
 			width: 925px;
@@ -1716,15 +1731,15 @@ input, select, textarea {
 		/* backgrounds */
 		
 		.slide-1 {
-			background-image: url("../images/gif1.gif");
+			background-image: url("../../images/gif1.gif");
 		}
 		
 		.slide-2 {
-			background-image: url("../images/gif2.gif");
+			background-image: url("../../images/gif2.gif");
 		}
 		
 		.slide-3 {
-			background-image: url("../images/gif3.gif");
+			background-image: url("../../images/gif3.gif");
 		}
 		
 
