@@ -1716,15 +1716,15 @@ input, select, textarea {
 		/* backgrounds */
 		
 		.slide-1 {
-			background-image: url("/images/gif1.GIF");
+			background-image: url("../images/gif1.gif");
 		}
 		
 		.slide-2 {
-			background-image: url("/images/gif2.GIF");
+			background-image: url("../images/gif2.gif");
 		}
 		
 		.slide-3 {
-			background-image: url("/images/gif3.GIF");
+			background-image: url("../images/gif3.gif");
 		}
 		
 
